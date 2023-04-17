@@ -1,1 +1,8 @@
-{}
+{
+  "storage": {
+    "dynamoca30e73f": {
+      "providerPlugin": "awscloudformation",
+      "service": "DynamoDB"
+    }
+  }
+}

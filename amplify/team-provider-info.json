@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:eu-west-3:031069935257:stack/amplify-awsbebous-dev-104009/76954730-dcfb-11ed-a978-0a8a88c86c38",
       "AmplifyAppId": "do0a49f076apv"
     }
+  },
+  "arthur": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsbebous-arthur-113704-authRole",
+      "UnauthRoleArn": "arn:aws:iam::031069935257:role/amplify-awsbebous-arthur-113704-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::031069935257:role/amplify-awsbebous-arthur-113704-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-awsbebous-arthur-113704-deployment",
+      "UnauthRoleName": "amplify-awsbebous-arthur-113704-unauthRole",
+      "StackName": "amplify-awsbebous-arthur-113704",
+      "StackId": "arn:aws:cloudformation:eu-west-3:031069935257:stack/amplify-awsbebous-arthur-113704/69b9fb70-dd03-11ed-9f4a-0649a16b0944",
+      "AmplifyAppId": "do0a49f076apv"
+    },
+    "categories": {
+      "storage": {
+        "dynamoca30e73f": {}
+      }
+    }
   }
 }
